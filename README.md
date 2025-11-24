@@ -157,4 +157,8 @@ Based on mood history, the bot will show:
 
 or "Your mood has been stable…"
 
+choose 5
+
+The bot will exit the program
+
 
