@@ -17,6 +17,7 @@ A friendly fallback message will be  given if the bot doesn’t understand.
 2. Mood & Stress Logging:
    
 Users can enter their mood in the log which will be saved in the text file automatically.
+
 The user can enter multiple log entires at once
 
 3. Smart Suggestions
@@ -54,7 +55,8 @@ Technologies / Tools Used:
 .Conditional Logic & Loops
 
 
- Steps to Install & Run the Project
+ Steps to Install & Run the Project:
+ 
 1. Install Python
 
 2. Download/Copy the Project Files
