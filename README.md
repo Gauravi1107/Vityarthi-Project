@@ -21,37 +21,24 @@ Based on the users current mood the bot will suggest:
 🌼 Positive affirmations
 ☕ Small break suggestions
 
-✅ 4. Behaviour Summary
-
-Analyzes recent mood logs.
-
-Detects patterns (e.g., frequent sadness, stress, stable mood).
-
+4. Behaviour Summary
+Analyses recent mood logs.
+Detects user's mood patterns(e.g., frequent sadness, stress, hapiness, stable mood etc.)
 Gives supportive feedback.
 
-✅ 5. User-friendly Menu Navigation
+5. User-friendly Menu Navigation
+After completing every task the user is directed back to the main menu.
+Contains simple input -based controls.
 
-After completing any option, the user returns to the main menu.
+Technologies / Tools Used
 
-Simple input-based controls.
+.Python 3.13
+.File Handling
+.Random Module 
+.Conditional Logic & Loops
 
-🛠️ Technologies / Tools Used
-
-Python 3
-
-File Handling (reading & writing to companion.txt)
-
-Random Module (for randomized responses)
-
-Conditional Logic & Loops
-
-No external libraries or APIs required.
-
-🧩 Steps to Install & Run the Project
+ Steps to Install & Run the Project
 1. Install Python
-
-If not installed, download from:
-https://www.python.org/downloads/
 
 2. Download/Copy the Project Files
 
