@@ -33,32 +33,27 @@ Contains simple input -based controls.
 Technologies / Tools Used
 
 .Python 3.13
+
 .File Handling
+
 .Random Module 
+
 .Conditional Logic & Loops
+
 
  Steps to Install & Run the Project
 1. Install Python
 
 2. Download/Copy the Project Files
 
-Save the full code as:
-
-companion.py
-
+Save the full code as: companion.py
 
 Make sure there is an empty file named:
 
 companion.txt
-
-
 (This will store your mood logs.)
 
 3. Run the Program
-
-Open terminal/command prompt and type:
-
-python companion.py
 
 4. Follow On-Screen Menu
 
@@ -70,17 +65,15 @@ You’ll see:
 4. View behaviour summary
 5. Exit
 
-
 Choose any number to begin.
 
-🧪 Instructions for Testing
+Instructions for Testing
 
 Here’s how you can properly test each feature:
 
 ✔ Chat Mode
 
 Choose option 1.
-
 Try typing:
 
 "hello"
@@ -113,7 +106,7 @@ Enter yes to add more logs.
 
 Enter no to return to menu.
 
-Check companion.txt to confirm logs were saved.
+The logs will automatically be saved in the companion.txt
 
 ✔ Suggestions
 
@@ -149,20 +142,4 @@ Based on mood history, the bot will show:
 
 or "Your mood has been stable…"
 
-📸 Screenshots (Optional)
 
-You can add images like:
-
-Main Menu screenshot
-
-Chat session screenshot
-
-Mood logging
-
-Behaviour summary output
-
-(Add them using Markdown once you capture them.)
-
-Example format:
-
-![Chat Screenshot](images/chat.png)
