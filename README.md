@@ -105,6 +105,9 @@ Bot should reply appropriately.
 
 Type bye to exit.
 
+<img width="1919" height="1020" alt="Screenshot 2025-11-24 202149" src="https://github.com/user-attachments/assets/ac404eeb-5017-4b2a-b9d5-f3d11a2137f4" />
+
+
 ✔ Logging Mood
 
 Choose option 2.
@@ -123,6 +126,9 @@ Enter no to return to menu.
 
 The logs will automatically be saved in the companion.txt
 
+sad<img width="1791" height="790" alt="Screenshot 2025-11-24 210436" src="https://github.com/user-attachments/assets/21b159ec-d6ff-49cd-9a67-920240be92de" />
+
+
 ✔ Suggestions
 
 Choose 3.
@@ -130,8 +136,6 @@ Choose 3.
 Type any mood:
 
 happy
-
-sad
 
 stressed
 
@@ -145,6 +149,9 @@ affirmations
 
 break suggestions
 
+<img width="1856" height="805" alt="Screenshot 2025-11-24 210719" src="https://github.com/user-attachments/assets/e51c8a18-ee08-493e-8971-e05c79450b37" />
+
+
 ✔ Behaviour Summary
 
 Choose 4.
@@ -156,6 +163,9 @@ Based on mood history, the bot will show:
 "You have been stressed..."
 
 or "Your mood has been stable…"
+
+<img width="1062" height="333" alt="Screenshot 2025-11-24 210845" src="https://github.com/user-attachments/assets/7da58ff6-0fbb-4ac8-87ea-163f2ec245a8" />
+
 
 choose 5
 
