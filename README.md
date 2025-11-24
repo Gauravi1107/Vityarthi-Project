@@ -6,31 +6,44 @@ This project has made use of basic python functions and file handling to store u
 
 It is a beginner friendly chatbot and can be easily extended into an advanced AI companion app.
 Features
-1. Chat Mode
+1. Chat Mode:
+   
 In this mode the user is able to chat with the bot.
+
 The bot will respond based on the keywords in the messages sent by the user(like happy, greetings, sadness etc.)
+
 A friendly fallback message will be  given if the bot doesn’t understand.
 
-2. Mood & Stress Logging
+2. Mood & Stress Logging:
+   
 Users can enter their mood in the log which will be saved in the text file automatically.
 The user can enter multiple log entires at once
 
 3. Smart Suggestions
+   
 Based on the users current mood the bot will suggest:
+
 🎵 Music playlists
+
 🌼 Positive affirmations
+
 ☕ Small break suggestions
 
-4. Behaviour Summary
+4. Behaviour Summary:
+   
 Analyses recent mood logs.
+
 Detects user's mood patterns(e.g., frequent sadness, stress, hapiness, stable mood etc.)
+
 Gives supportive feedback.
 
-5. User-friendly Menu Navigation
+5. User-friendly Menu Navigation:
+   
 After completing every task the user is directed back to the main menu.
+
 Contains simple input -based controls.
 
-Technologies / Tools Used
+Technologies / Tools Used:
 
 .Python 3.13
 
